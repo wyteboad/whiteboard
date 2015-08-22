@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/wyteboad/wyteboad.png?label=ready&title=Ready)](https://waffle.io/wyteboad/wyteboad)
 # whiteboard
 
 ## 중제목
